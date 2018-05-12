@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5304
     wikipedia: http://en.wikipedia.org/wiki/Francis_Burnand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45360#Punch-or-the-London-Charivari-Vol.-109-October-26-1895
 gutenberg_issued: '2014-04-11'
 gutenberg_type: Text
 identifiers:
